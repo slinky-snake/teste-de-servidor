@@ -1,0 +1,24 @@
+{
+  "name": "teste-de-servidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slinky-snake/teste-de-servidor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slinky-snake/teste-de-servidor/issues"
+  },
+  "homepage": "https://github.com/slinky-snake/teste-de-servidor#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
